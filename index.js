@@ -5,5 +5,5 @@ function breakOut(array, changeValue, stopValue) {
       break
     }
   }
-return breakOut
+return array
 }
